@@ -29,3 +29,13 @@ The skeleton Jupyter Notebook is available here: `Lab3.ipynb`. To run it just do
 *   [kNN](http://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#example-neighbors-plot-classification-py)
 *   [Perceptron 1](http://scikit-learn.org/stable/modules/linear_model.html#perceptron)
 *   [Perceptron 2](http://stamfordresearch.com/python-perceptron-re-visited/)
+
+## Requirements
+### Python version
+This coursework must be completed using `Python 2.x.x`. If you have troubles running Python on any of the MVB 2.11 lab machines please execute the following command first:
+```
+export PATH=/opt/anaconda/python2/bin:$PATH
+```
+
+### Running the code on Windows
+The notebook should work on Windows machines. Unfortunately, we cannot provide any kind of help if you decide to run it on Windows.
